@@ -1,0 +1,5 @@
+1. A solução deve ser disponibilizada em Cloud. Dessa forma tendo acesso a sistemas e recursos escaláveis de acordo com a demanda e utilização.
+2. Para a gerência de um time contendo 4 pessoas uma ferramenta ágil estilo Kanban adequada, sendo o Jira, Trello ou ClickUp exemplos.
+3. Sinto-me capaz de liderar esta equipe, pois tenho experiência com gestão de requisitos, priorização de atividades, dentre outras tarefas.
+4. No âmbito do cenário proposto de centralização dos atendimentos originados a partir de diversos canais distintos, própria transformar a aplicação de atendimento num serviço a parte, de forma que pudesse ser acessado por diferentes empresas do mesmo grupo, mediante unificação dos cadastros e/ou validação dos usuários para garantir a integridade dos atendimentos.
+5. Acredito que dependa do intuito da empresa em avaliar a proficiência dos candidatos na visão geral. Mas pelo ponto de habilidades práticas, seria interessante possuir desafios mais específicos para o cargo pleiteado.
